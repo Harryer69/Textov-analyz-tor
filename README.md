@@ -1,2 +1,2 @@
-# Textov-analyz-tor
+# Textový-analyáztor
 Analýza textu, první projekt Python
